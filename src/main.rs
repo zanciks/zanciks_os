@@ -1,3 +1,5 @@
+// currently, to run the code, simply do `cargo +nightly run --target target.json`
+
 #![no_std]
 #![no_main]
 
